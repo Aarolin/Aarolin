@@ -1,4 +1,4 @@
-### Hi there 👋
+### Привет, меня зовут Алексей, я начинающий C++ разработчик и я мечтаю стать мастером своего дела ###
 
 <!--
 **Aarolin/Aarolin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
